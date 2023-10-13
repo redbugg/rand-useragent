@@ -1,4 +1,4 @@
-rand-useragent
+lrand-useragent
 ==============
 
 An up-to-date simple random user-agent with real world database. 
@@ -93,7 +93,7 @@ $ ./scripts/update-data.sh
 ```
 
 The data JSON file is part of the Python package, 
-see [pyproject.toml](https://github.com/redbugg/rand-useragent/pyproject.toml). 
+see [pyproject.toml](./pyproject.toml). 
 Read more about [Data files support](https://setuptools.pypa.io/en/latest/userguide/datafiles.html).
 
 ---
