@@ -1,4 +1,4 @@
-lrand-useragent
+rand-useragent
 ==============
 
 An up-to-date simple random user-agent with real world database. 
